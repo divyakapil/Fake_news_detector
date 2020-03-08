@@ -1,2 +1,2 @@
 # Fake-news-detection
-Detect the fake news
+Detect the fake news 
